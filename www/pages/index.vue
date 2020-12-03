@@ -10,7 +10,7 @@
       </div>
 		  -->
       <p class="text-gray-500 text-xl mb-12">Neutron is the ultimate automated webmaster tool combined with an intuitive workflow, making your websites faster, more secure, and more affordable in one-click.</p>
-	  <button class="flex flex-row items-center justify-center text-center rounded shadow text-white uppercase font-medium tracking-wide p-4 pl-6 pr-6 bg-indigo-600 hover:bg-indigo-500 mb-32">Join the waitlist</button>
+	  <a href="https://www.producthunt.com/upcoming/neutron" class="flex flex-row items-center justify-center text-center rounded shadow text-white uppercase font-medium tracking-wide p-4 pl-6 pr-6 bg-indigo-600 hover:bg-indigo-500 mb-32">Join the waitlist</a>
       <h3 style="letter-spacing: 2px;" class="uppercase text-white font-medium">Explore the Neutron way</h3>
       <div class="leadup"></div>
       <div class="circle mb-4">1</div>
