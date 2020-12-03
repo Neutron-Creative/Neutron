@@ -39,8 +39,8 @@
     <Nuxt />
     <section class="flex flex-col w-full nc-purple-bg items-center justify-content p-8 md:p-20 bg-black">
       <div class="flex flex-col md:flex-row w-full max-w-5xl justify-between">
-        <div class="flex flex-col items-start justify-center mr-auto text-left">
-          <h2 class="text-white font-bold text-5xl mb-2">Request access</h2>
+        <div class="flex flex-col items-center lg:items-start justify-center mr-auto text-center lg:text-left mb-6 lg:mb-0">
+          <h2 class="text-white font-bold text-4xl lg:text-5xl mb-2">Request access</h2>
           <p class="text-gray-300 text-xl max-w-2xl leading-relaxed">Neutron is currently in private alpha, but we'd love to have you. Join the waitlist, and we'll send you an invite as soon as we're ready.</p>
         </div>
         <div class="flex flex-col items-center text-center justify-center mt-4 md:mt-0">
@@ -52,7 +52,7 @@
     </section>
     <footer style="background:#111;" class="flex w-full justify-center text-center text-gray-600 text-sm mt-auto border border-black border-l-0 border-r-0 border-b-4 p-8">
       <div class="flex flex-col w-full max-w-5xl">
-        <div class="flex flex-row w-full text-left">
+        <div class="flex flex-col text-center lg:flex-row w-full lg:text-left">
           <ul class="flex flex-col w-full lg:w-1/3 p-4">
             <h4 class="text-gray-300 mb-4">Products</h4>
 			<a href="#">
@@ -99,7 +99,7 @@
         </div>
         <div class="flex flex-row w-full p-4">
           <div class="flex flex-col">
-            <n-link class="flex flex-col justify-center mb-4" to="/">
+            <n-link class="flex flex-col justify-center mb-4 mx-auto lg:mx-0" to="/">
               <img style="width: 120px;" src="/Sidebar-brandmark.svg"/>
             </n-link>
             <p class="text-gray-500">Copyright ©2020 Neutron Creative Inc. All rights reserved.</p>
